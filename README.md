@@ -3,7 +3,9 @@
 Under the Fur는 플레이어가 보호소의 동물들과 대화하며, 각 동물이 숨기고 있는 트라우마를 파악해 나가는 AI 기반 대화형 게임입니다.  
 단순한 선택지가 아닌 직접 입력한 문장을 통해 동물들과 소통하고, 대화 속 단서들을 바탕으로 진실에 가까워지는 경험을 제공합니다.
 
-![이미지](Images/Library Capsule.png)
+<p align="center">
+  <img src="Images/LibraryCapsule.png" alt="Under the Fur">
+</p>
 
 ## 프로젝트 소개
 
@@ -12,7 +14,7 @@ Under the Fur는 플레이어가 보호소의 동물들과 대화하며, 각 동
 
 이 게임은 정답을 빠르게 맞히는 방식보다, 대화의 흐름을 읽고 상대의 반응을 이해하는 과정 자체에 집중합니다.
 
-![이미지](Images/Main Capsule.png)
+![이미지](Images/MainCapsule.png)
 
 ## 주요 특징
 
