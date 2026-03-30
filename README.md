@@ -65,9 +65,9 @@ Under the Fur는 단순히 정보를 얻는 대화 게임이 아니라,
 
 ## 스크린샷
 
-![이미지](Images/Capture1.png)
-![이미지](Images/Capture2.png)
 ![이미지](Images/Capture3.png)
+![이미지](Images/Capture2.png)
+![이미지](Images/Capture1.png)
 
 ## 실행 환경
 
